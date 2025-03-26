@@ -1,12 +1,5 @@
 # Node.js
 node_modules/
-
-# React build
-build/
-
-# Logs
-*.log
-
-# OS-specific
-.DS_Store
-Thumbs.db
+npm-debug.log
+yarn-debug.log
+yarn-error.log
