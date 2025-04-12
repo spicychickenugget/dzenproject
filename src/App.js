@@ -117,10 +117,10 @@ const App = () => {
           $DZEN is a token built on the Solana mainnet.
         </p>
         <p className="section-text">
-        This isn’t some hype project. I’m a Solana dev when I’m not stuck in a busy kitchen. This whole thing — the token, the milk tea, the tech — it’s all coming from me. I don’t have some big team or venture money. Just a few Discord mods helping hold it together while I pour the last of what I’ve got into it.
+        This isn’t some hype project. I’m a Solana dev when I’m not bussing my ass in the kitchen/galley. The tea and tech is made by me.
         </p>
         <p className="section-text">
-          I love milk tea, It keeps me away from the bottle. I make the best damn milk tea you’ve never tasted, and I want to share it. Every $DZEN holder gets a shelf-stable bottle sent to them annually. That’s the whole point. I needed something to build. Something real. This is it.
+        Every $DZEN holder gets a shelf-stable bottle sent to them annually. It’s just me and a small team running this. We handle everything through Discord, keeping the process clean and transparent.
         </p>
       </section>
 

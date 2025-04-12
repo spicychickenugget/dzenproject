@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dzenproject/static/css/main.a4213c01.css",
+    "main.js": "/dzenproject/static/js/main.6a656119.js",
+    "static/media/major-mono-display-latin-400-normal.woff2": "/dzenproject/static/media/major-mono-display-latin-400-normal.14d4478825ab148861bc.woff2",
+    "static/media/major-mono-display-latin-ext-400-normal.woff2": "/dzenproject/static/media/major-mono-display-latin-ext-400-normal.c6c4480bed50aaa8fec6.woff2",
+    "static/media/major-mono-display-latin-400-normal.woff": "/dzenproject/static/media/major-mono-display-latin-400-normal.2cf913487b17f60d9218.woff",
+    "static/media/share-tech-mono-latin-400-normal.woff2": "/dzenproject/static/media/share-tech-mono-latin-400-normal.9dedd274c9f5d028700c.woff2",
+    "static/media/major-mono-display-latin-ext-400-normal.woff": "/dzenproject/static/media/major-mono-display-latin-ext-400-normal.8cb7893adf3814063462.woff",
+    "static/media/share-tech-mono-latin-400-normal.woff": "/dzenproject/static/media/share-tech-mono-latin-400-normal.dffcd7459e68912adc39.woff",
+    "static/media/major-mono-display-vietnamese-400-normal.woff2": "/dzenproject/static/media/major-mono-display-vietnamese-400-normal.aeb82f1a52551facfa36.woff2",
+    "static/media/orbitron-latin-400-normal.woff": "/dzenproject/static/media/orbitron-latin-400-normal.50f867b5cf7cadb22ab4.woff",
+    "static/media/orbitron-latin-400-normal.woff2": "/dzenproject/static/media/orbitron-latin-400-normal.1b2c34c3c996f3af4736.woff2",
+    "static/media/major-mono-display-vietnamese-400-normal.woff": "/dzenproject/static/media/major-mono-display-vietnamese-400-normal.4adb2f90329a24354d89.woff",
+    "index.html": "/dzenproject/index.html",
+    "main.a4213c01.css.map": "/dzenproject/static/css/main.a4213c01.css.map",
+    "main.6a656119.js.map": "/dzenproject/static/js/main.6a656119.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4213c01.css",
+    "static/js/main.6a656119.js"
+  ]
+}
