@@ -117,7 +117,7 @@ const App = () => {
           $DZEN is a token built on the Solana mainnet.
         </p>
         <p className="section-text">
-        This isn’t some hype project. I’m a Solana dev when I’m not bussing my ass in the kitchen/galley. The tea and tech is made by me.
+        This isn’t some hype project. I’m a Solana dev when I’m not bussing my ass in the galley. The tea and tech is made by me.
         </p>
         <p className="section-text">
         Every $DZEN holder gets a shelf-stable bottle sent to them annually. It’s just me and a small team running this. We handle everything through Discord, keeping the process clean and transparent.
@@ -128,7 +128,7 @@ const App = () => {
       <section id="roadmap" className="roadmap-section">
         <h2 className="roadmap-title">DZEN Roadmap</h2>
         <p className="roadmap-description">
-          This isn’t a roadmap for hype. This is just what’s getting done, when it’s getting done.
+          This is what’s getting done, when it’s getting done.
         </p>
 
         <div className="roadmap-phases">
@@ -136,8 +136,8 @@ const App = () => {
             <h3 className="roadmap-phase-title">Phase 1: The Drop</h3>
             <ul className="roadmap-phase-list">
               <li>Token minted and deployed on Solana mainnet.</li>
-              <li>Site launched, socials up. Everything built from scratch.</li>
-              <li>Community on Discord — no bots, just real people.</li>
+              <li>Site launched.</li>
+              <li>Thriving community on Discord.</li>
             </ul>
           </div>
 
@@ -145,8 +145,8 @@ const App = () => {
             <h3 className="roadmap-phase-title">Phase 2: Getting Seen</h3>
             <ul className="roadmap-phase-list">
               <li>Get $DZEN listed on major centralized exchanges.</li>
-              <li>Push out promo in waves — no fake hype, just slow burn.</li>
-              <li>Token-gated ordering through Discord — simple and secure.</li>
+              <li>Push out promo in waves.</li>
+              <li>Token-gated ordering through Discord.</li>
             </ul>
           </div>
 
