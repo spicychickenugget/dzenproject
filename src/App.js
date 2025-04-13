@@ -137,7 +137,7 @@ const App = () => {
             <ul className="roadmap-phase-list">
               <li>Token minted and deployed on Solana mainnet.</li>
               <li>Site launched.</li>
-              <li>Thriving community on Discord.</li>
+              <li>Community on Discord.</li>
             </ul>
           </div>
 
@@ -161,8 +161,8 @@ const App = () => {
           <div className="roadmap-phase">
             <h3 className="roadmap-phase-title">Phase 4: Scaling Without Selling Out</h3>
             <ul className="roadmap-phase-list">
-              <li>Expand the tea drops. More flavors, more precision.</li>
-              <li>Integrate with other Solana tools and projects where it makes sense.</li>
+              <li>Expand tea drops. More flavors, more precision.</li>
+              <li>Integrate with other Solana tools and projects.</li>
             </ul>
           </div>
 
@@ -170,7 +170,6 @@ const App = () => {
             <h3 className="roadmap-phase-title">Phase 5: Keep It Alive</h3>
             <ul className="roadmap-phase-list">
               <li>Focus on stability. No wild promises, just consistency.</li>
-              <li>Keep it alive. Even after I fall overboard.</li>
             </ul>
           </div>
         </div>
@@ -178,10 +177,10 @@ const App = () => {
 
       <section id="quote" className="quote-section">
         <blockquote className="quote">
-          "$DZEN isn't just a token. It's a real project made by someone who actually gives a shit. I'm here to build something that lasts — for myself, for the community, and for anyone who's ever wanted something more solid in this space."
+          
           <br />
           <br />
-          <span className="quote-author">- ChefRoux</span>
+          <span className="quote-author">- Chef Roux</span>
         </blockquote>
       </section>
 
