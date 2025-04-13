@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dzenproject/static/css/main.a4213c01.css",
-    "main.js": "/dzenproject/static/js/main.f423315f.js",
+    "main.js": "/dzenproject/static/js/main.53a054eb.js",
     "static/media/major-mono-display-latin-400-normal.woff2": "/dzenproject/static/media/major-mono-display-latin-400-normal.14d4478825ab148861bc.woff2",
     "static/media/major-mono-display-latin-ext-400-normal.woff2": "/dzenproject/static/media/major-mono-display-latin-ext-400-normal.c6c4480bed50aaa8fec6.woff2",
     "static/media/major-mono-display-latin-400-normal.woff": "/dzenproject/static/media/major-mono-display-latin-400-normal.2cf913487b17f60d9218.woff",
@@ -14,10 +14,10 @@
     "static/media/major-mono-display-vietnamese-400-normal.woff": "/dzenproject/static/media/major-mono-display-vietnamese-400-normal.4adb2f90329a24354d89.woff",
     "index.html": "/dzenproject/index.html",
     "main.a4213c01.css.map": "/dzenproject/static/css/main.a4213c01.css.map",
-    "main.f423315f.js.map": "/dzenproject/static/js/main.f423315f.js.map"
+    "main.53a054eb.js.map": "/dzenproject/static/js/main.53a054eb.js.map"
   },
   "entrypoints": [
     "static/css/main.a4213c01.css",
-    "static/js/main.f423315f.js"
+    "static/js/main.53a054eb.js"
   ]
 }

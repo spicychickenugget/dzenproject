@@ -186,7 +186,7 @@ const App = () => {
 
       <section className="section">
         <h2 className="section-title">Join the Community</h2>
-        <p className="section-text">Connect with us on:</p>
+        <p className="section-text">Connect with me on:</p>
         <ul className="social-links">
           <li>
             <a href="https://x.com/chefrouxx" target="_blank" rel="noopener noreferrer">
